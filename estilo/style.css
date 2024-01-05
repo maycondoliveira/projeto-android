@@ -124,6 +124,11 @@ main{
 }
 
 main img{
+    width: 100%;
+}
+
+main img.pequena{
+    width: 50%;
     display: block;
     margin: auto;
 }
